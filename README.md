@@ -9,6 +9,7 @@ Cara install :
 1. crud-test-backend
 - cp .env.example .env
 - composer install
+- create database
 - php artisan key:generate
 - php artisan migrate
 - php artisan serve
